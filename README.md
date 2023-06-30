@@ -1,5 +1,7 @@
 # python-ListComparator
 
+Version Quentin
+
 GUI and CLI tool for comparing lists.
 
 Initially dedicated for comparing lists of terms, this tool can be use for any
